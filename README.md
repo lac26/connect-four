@@ -78,3 +78,4 @@ http://chessprogramming.wikispaces.com/Principal+Variation+Search
 - MTD-f
 https://askeplaat.wordpress.com/534-2/mtdf-algorithm/
 https://en.wikipedia.org/wiki/MTD-f
+# connect-four
